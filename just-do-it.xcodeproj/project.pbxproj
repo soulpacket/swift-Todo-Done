@@ -13,7 +13,7 @@
 		6F5A22F81F15D7C700E7DE47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F5A22F71F15D7C700E7DE47 /* Assets.xcassets */; };
 		6F5A22FB1F15D7C700E7DE47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F5A22F91F15D7C700E7DE47 /* LaunchScreen.storyboard */; };
 		6F5A23031F1623E600E7DE47 /* addInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F5A23021F1623E600E7DE47 /* addInfo.swift */; };
-		6F5A23051F16529B00E7DE47 /* addInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F5A23041F16529B00E7DE47 /* addInfoViewController.swift */; };
+		6F5A23071F1CB86300E7DE47 /* editInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F5A23061F1CB86300E7DE47 /* editInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		6F5A22FA1F15D7C700E7DE47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F5A22FC1F15D7C700E7DE47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F5A23021F1623E600E7DE47 /* addInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = addInfo.swift; sourceTree = "<group>"; };
-		6F5A23041F16529B00E7DE47 /* addInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = addInfoViewController.swift; sourceTree = "<group>"; };
+		6F5A23061F1CB86300E7DE47 /* editInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = editInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				6F5A22F91F15D7C700E7DE47 /* LaunchScreen.storyboard */,
 				6F5A22FC1F15D7C700E7DE47 /* Info.plist */,
 				6F5A23021F1623E600E7DE47 /* addInfo.swift */,
-				6F5A23041F16529B00E7DE47 /* addInfoViewController.swift */,
+				6F5A23061F1CB86300E7DE47 /* editInfo.swift */,
 			);
 			path = "just-do-it";
 			sourceTree = "<group>";
@@ -144,7 +144,7 @@
 			files = (
 				6F5A22F31F15D7C700E7DE47 /* ViewController.swift in Sources */,
 				6F5A22F11F15D7C700E7DE47 /* AppDelegate.swift in Sources */,
-				6F5A23051F16529B00E7DE47 /* addInfoViewController.swift in Sources */,
+				6F5A23071F1CB86300E7DE47 /* editInfo.swift in Sources */,
 				6F5A23031F1623E600E7DE47 /* addInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
